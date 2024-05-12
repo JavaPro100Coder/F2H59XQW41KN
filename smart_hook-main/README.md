@@ -1,2 +1,0 @@
-# smart_hook
-x
